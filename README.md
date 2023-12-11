@@ -12,3 +12,9 @@ Brief description of your project.
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
 
+## Command 
+
+2. **Command Prompt:**
+    ```bash
+    pip install Flask Flask-SQLAlchemy pymysql
+
